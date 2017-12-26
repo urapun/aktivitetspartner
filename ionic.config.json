@@ -1,0 +1,8 @@
+{
+  "name": "AktivApp",
+  "app_id": "422ad64c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
